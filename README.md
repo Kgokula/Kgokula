@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kgokula
 - 👀 I’m interested in all things data and BI...
-- 🌱 I’m currently learning Azure as a side gig...
-- 💞️ I currently work at a Class 1 Railroad as a Manager BI & Analytics
 - 📫 How to reach me: gokula.kanda@outlook.com
 
 <!---
